@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=P?-5
+Removed Pin From Net: NetName=GND Pin=P?-6
+Added Component: Designator=R7(SM-RES-0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TDO I Pin=R7-1
+Added Pin To Net: NetName=VCC Pin=R7-2
+Added Member To Class: ClassName=J-Link OB Member=Component R7 47k
+Added Room: Name=J-Link OB

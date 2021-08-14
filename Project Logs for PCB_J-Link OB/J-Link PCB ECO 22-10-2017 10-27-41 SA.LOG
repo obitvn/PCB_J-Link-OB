@@ -1,0 +1,81 @@
+Added Component: Designator=C8(J4-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6200xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "2 April 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "62000411821"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H1(CONN5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(CONN5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(USB-A-FEMALE-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1.Manufacturer"; Value = "Assmann"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2.MfgNo"; Value = "AU-Y1006-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3.Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4.CatNo"; Value = "AE9924-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "9.UnitCost"; Value = "0.430"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(RESONATOR-SMD-3.2X1.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "XTAL-08895"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-4
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=5V Pin=D1-2
+Added Pin To Net: NetName=VCC Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-5
+Added Pin To Net: NetName=5V Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-5
+Added Pin To Net: NetName=NetD1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-G1
+Added Pin To Net: NetName=GND Pin=J1-G2
+Added Pin To Net: NetName=OSC1 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=OSC0 Pin=Y1-3
+Added Net: Name=NetC10_2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=SWDCLK_IN Pin=C8-3
+Added Net: Name=SWDCLK_IN
+Added Pin To Net: NetName=SWDIO IN Pin=C8-2
+Added Net: Name=SWDIO IN
+Added Pin To Net: NetName=TCK I Pin=H2-2
+Added Net: Name=TCK I
+Added Net: Name=TCK O
+Added Pin To Net: NetName=TDI I Pin=H2-3
+Added Net: Name=TDI I
+Added Net: Name=TDI O
+Added Pin To Net: NetName=TDO I Pin=H1-3
+Added Net: Name=TDO I
+Added Pin To Net: NetName=TMS I Pin=H1-2
+Added Net: Name=TMS I
+Added Net: Name=TMS O
+Added Pin To Net: NetName=TRES I Pin=H2-4
+Added Net: Name=TRES I
+Added Net: Name=TRES O
+Added Pin To Net: NetName=TRST I Pin=H1-4
+Added Net: Name=TRST I
+Added Net: Name=TRST O
+Added Net: Name=UD+
+Added Net: Name=UD+UP
+Added Net: Name=UD-
+Added Member To Class: ClassName=J-Link OB Member=Component C8 JP4x1-2.0
+Added Member To Class: ClassName=J-Link OB Member=Component D1 SS24
+Added Member To Class: ClassName=J-Link OB Member=Component H1 Conn5
+Added Member To Class: ClassName=J-Link OB Member=Component H2 Conn5
+Added Member To Class: ClassName=J-Link OB Member=Component J1 USB A Female
+Added Member To Class: ClassName=J-Link OB Member=Component Y1 
+Added Room: Name=J-Link OB

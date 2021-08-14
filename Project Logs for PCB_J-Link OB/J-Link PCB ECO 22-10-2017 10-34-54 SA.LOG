@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-G1
+Removed Pin From Net: NetName=GND Pin=J1-G2
+Removed Member From Class: ClassName=J-Link OB Member=J1
+Added Component: Designator=P1(USB TYPE-A Plug)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD1_1 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=R7-1
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=R8-1
+Added Pin To Net: NetName=NetP1_3 Pin=R9-2
+Added Net: Name=NetP1_3
+Added Member To Class: ClassName=J-Link OB Member=Component P1 USB
+Added Room: Name=J-Link OB

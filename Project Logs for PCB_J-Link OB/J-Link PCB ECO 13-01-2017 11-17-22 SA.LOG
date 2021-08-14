@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=VCC Pin=JP1-1
+Removed Pin From Net: NetName=TRSTOUT Pin=JP1-3
+Removed Pin From Net: NetName=TDIOUT Pin=JP1-5
+Removed Pin From Net: NetName=TMSOUT Pin=JP1-7
+Removed Pin From Net: NetName=TCKOUT Pin=JP1-9
+Removed Pin From Net: NetName=TRESOUT Pin=JP1-15
+Removed Pin From Net: NetName=5V Pin=JP1-19
+Removed Pin From Net: NetName=5V Pin=P2-1
+Removed Pin From Net: NetName=VCC Pin=R12-2
+Removed Pin From Net: NetName=VCC Pin=R13-2
+Removed Pin From Net: NetName=TCKOUT Pin=R14-1
+Removed Pin From Net: NetName=VCC Pin=R14-2
+Removed Pin From Net: NetName=TMSOUT Pin=R15-1
+Removed Pin From Net: NetName=VCC Pin=R15-2
+Removed Pin From Net: NetName=TDIOUT Pin=R16-1
+Removed Pin From Net: NetName=VCC Pin=R16-2
+Removed Pin From Net: NetName=TRSTOUT Pin=R17-1
+Removed Pin From Net: NetName=VCC Pin=R17-2
+Removed Member From Class: ClassName=J-Link OB Member=JP1
+Removed Member From Class: ClassName=J-Link OB Member=R13
+Removed Member From Class: ClassName=J-Link OB Member=R14
+Removed Member From Class: ClassName=J-Link OB Member=R15
+Removed Member From Class: ClassName=J-Link OB Member=R16
+Removed Member From Class: ClassName=J-Link OB Member=R17
+Removed Member From Class: ClassName=J-Link OB Member=R18
+Change Component Footprint: Designator=C6 Old Footprint=CAP_NP_200 New Footprint=C 0805 INSTEK
+Change Component Footprint: Designator=C7 Old Footprint=CAP_NP_200 New Footprint=C 0805 INSTEK
+Change Component Footprint: Designator=LED2 Old Footprint=LED-5 New Footprint=SM-LED-0805-Blue
+Change Component Designator: OldDesignator=R18 NewDesignator=R12
+Added Component: Designator=D1(D1A)
+Added Component: Designator=J1(JP3x2)
+Added Pin To Net: NetName=5V Pin=D1-2
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=5V Pin=J1-4
+Added Pin To Net: NetName=VCC Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=P2-1
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=J-Link OB Member=Component D1 1N4007
+Added Member To Class: ClassName=J-Link OB Member=Component J1 Connector 3x2
+Added Room: Name=J-Link OB

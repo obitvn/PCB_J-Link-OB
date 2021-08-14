@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=GND Pin=-5
+Removed Pin From Net: NetName=GND Pin=-6
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=C3
+Change Component Designator: OldDesignator= NewDesignator=C4
+Change Component Designator: OldDesignator= NewDesignator=C5
+Change Component Designator: OldDesignator= NewDesignator=C6
+Change Component Designator: OldDesignator= NewDesignator=C7
+Change Component Designator: OldDesignator= NewDesignator=C8
+Change Component Designator: OldDesignator= NewDesignator=C9
+Change Component Designator: OldDesignator= NewDesignator=C10
+Change Component Designator: OldDesignator= NewDesignator=C11
+Change Component Designator: OldDesignator= NewDesignator=D1
+Change Component Designator: OldDesignator= NewDesignator=H1
+Change Component Designator: OldDesignator= NewDesignator=H2
+Change Component Designator: OldDesignator= NewDesignator=LED1
+Change Component Designator: OldDesignator= NewDesignator=LED2
+Change Component Designator: OldDesignator= NewDesignator=P?
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=R7
+Change Component Designator: OldDesignator= NewDesignator=R8
+Change Component Designator: OldDesignator= NewDesignator=R9
+Change Component Designator: OldDesignator= NewDesignator=R10
+Change Component Designator: OldDesignator= NewDesignator=R11
+Change Component Designator: OldDesignator= NewDesignator=U1
+Change Component Designator: OldDesignator= NewDesignator=U2
+Change Component Designator: OldDesignator= NewDesignator=Y1
+Added Component: Designator=R70(SM-RES-0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R70-1
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetP?_2
+Change Net Name : Old Net Name=NetP1_3 New Net Name=NetP?_3
+Added Pin To Net: NetName=NetR70_2 Pin=R70-2
+Added Pin To Net: NetName=NetR70_2 Pin=U2-44
+Added Net: Name=NetR70_2
+Added Member To Class: ClassName=J-Link OB Member=Component C1 CAP
+Added Member To Class: ClassName=J-Link OB Member=Component C2 CAP
+Added Member To Class: ClassName=J-Link OB Member=Component C3 CAP
+Added Member To Class: ClassName=J-Link OB Member=Component C4 CAP
+Added Member To Class: ClassName=J-Link OB Member=Component C5 CAP
+Added Member To Class: ClassName=J-Link OB Member=Component C6 CAP
+Added Member To Class: ClassName=J-Link OB Member=Component C7 CAP
+Added Member To Class: ClassName=J-Link OB Member=Component C8 JP4x1-2.0
+Added Member To Class: ClassName=J-Link OB Member=Component C9 CAP
+Added Member To Class: ClassName=J-Link OB Member=Component C10 CAP
+Added Member To Class: ClassName=J-Link OB Member=Component C11 CAP
+Added Member To Class: ClassName=J-Link OB Member=Component D1 SS24
+Added Member To Class: ClassName=J-Link OB Member=Component H1 Conn5
+Added Member To Class: ClassName=J-Link OB Member=Component H2 Conn5
+Added Member To Class: ClassName=J-Link OB Member=Component LED1 LED SMD
+Added Member To Class: ClassName=J-Link OB Member=Component LED2 LED SMD
+Added Member To Class: ClassName=J-Link OB Member=Component P? USB
+Added Member To Class: ClassName=J-Link OB Member=Component R1 100
+Added Member To Class: ClassName=J-Link OB Member=Component R2 100
+Added Member To Class: ClassName=J-Link OB Member=Component R3 100
+Added Member To Class: ClassName=J-Link OB Member=Component R4 10k
+Added Member To Class: ClassName=J-Link OB Member=Component R5 100
+Added Member To Class: ClassName=J-Link OB Member=Component R6 100
+Added Member To Class: ClassName=J-Link OB Member=Component R7 100
+Added Member To Class: ClassName=J-Link OB Member=Component R8 100
+Added Member To Class: ClassName=J-Link OB Member=Component R9 1.5K
+Added Member To Class: ClassName=J-Link OB Member=Component R10 10k
+Added Member To Class: ClassName=J-Link OB Member=Component R11 10k
+Added Member To Class: ClassName=J-Link OB Member=Component R70 100
+Added Member To Class: ClassName=J-Link OB Member=Component U1 AMS1117
+Added Member To Class: ClassName=J-Link OB Member=Component U2 STM32F103xx_LQFP48
+Added Member To Class: ClassName=J-Link OB Member=Component Y1 
+Added Room: Name=J-Link OB

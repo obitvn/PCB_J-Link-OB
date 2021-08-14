@@ -1,0 +1,50 @@
+Added Component: Designator=R8(SM-RES-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(LQFP48)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "www.st.com/stm32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/stonline/products/literature/ds/13587.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "rev6, Mar-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Low-Profile Quad Flat Pack, 7 x 7 mm Body, 0.5 mm Pitch (LQFP48)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Mar-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "30-May-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_3 Pin=R8-1
+Added Pin To Net: NetName=UD+ Pin=R8-2
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Pin To Net: NetName=OSC1 Pin=U2-5
+Added Pin To Net: NetName=OSC0 Pin=U2-6
+Added Pin To Net: NetName=NetC10_2 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=VCC Pin=U2-9
+Added Pin To Net: NetName=TRST O Pin=U2-10
+Added Pin To Net: NetName=TRES O Pin=U2-11
+Added Pin To Net: NetName=TRES I Pin=U2-12
+Added Pin To Net: NetName=TCK I Pin=U2-13
+Added Pin To Net: NetName=TMS I Pin=U2-14
+Added Pin To Net: NetName=TCK O Pin=U2-15
+Added Pin To Net: NetName=TDO I Pin=U2-16
+Added Pin To Net: NetName=TMS O Pin=U2-17
+Added Pin To Net: NetName=TDI I Pin=U2-18
+Added Pin To Net: NetName=TRST I Pin=U2-19
+Added Pin To Net: NetName=NetC11_1 Pin=U2-23
+Added Pin To Net: NetName=VCC Pin=U2-24
+Added Pin To Net: NetName=LED Pin=U2-25
+Added Pin To Net: NetName=TCK O Pin=U2-26
+Added Pin To Net: NetName=TDI O Pin=U2-27
+Added Pin To Net: NetName=TDO I Pin=U2-28
+Added Pin To Net: NetName=UD+UP Pin=U2-30
+Added Pin To Net: NetName=TDO I Pin=U2-31
+Added Pin To Net: NetName=UD- Pin=U2-32
+Added Pin To Net: NetName=UD+ Pin=U2-33
+Added Pin To Net: NetName=SWDIO IN Pin=U2-34
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=VCC Pin=U2-36
+Added Pin To Net: NetName=SWDCLK_IN Pin=U2-37
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=VCC Pin=U2-48
+Added Member To Class: ClassName=J-Link OB Member=Component R8 100
+Added Member To Class: ClassName=J-Link OB Member=Component U2 STM32F103xx_LQFP48

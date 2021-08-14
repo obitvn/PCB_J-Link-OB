@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=J1-1
+Removed Pin From Net: NetName=5V Pin=J1-4
+Removed Pin From Net: NetName=VCC Pin=U1-4
+Change Component Footprint: Designator=C9 Old Footprint=C 0805 New Footprint=C 0805 INSTEK
+Change Component Footprint: Designator=C6 Old Footprint=CAP_NP_200 New Footprint=C 0805 INSTEK
+Change Component Footprint: Designator=C7 Old Footprint=CAP_NP_200 New Footprint=C 0805 INSTEK
+Added Component: Designator=D2(D1A)
+Added Pin To Net: NetName=NetD1_1 Pin=D2-1
+Added Pin To Net: NetName=5VC Pin=D2-2
+Added Pin To Net: NetName=5VC Pin=J1-1
+Added Pin To Net: NetName=5VC Pin=J1-4
+Added Net: Name=5VC
+Added Member To Class: ClassName=J-Link OB Member=Component D2 1N4007
+Added Member To Class: ClassName=J-Link OB Member=Component R12 10k
+Added Room: Name=J-Link OB
